@@ -33,7 +33,7 @@ getgenv().ConfigsKaitun = {
 
 	["Gun"] = {
 		-- : World 2
-		["Kabucha"] = false,
+		["Kabucha"] = true,
 		-- : World 3
 		["Venom Bow"] = true,
 		["Skull Guitar"] = true,
@@ -57,7 +57,7 @@ getgenv().ConfigsKaitun = {
 			["Mink"] = true,
 			["Human"] = true,
 			["Skypiea"] = true,
-			["Fishman"] = false,
+			["Fishman"] = true,
 		},
 	},
 
@@ -77,17 +77,17 @@ getgenv().ConfigsKaitun = {
 		["Dough Mirror"] = true,
 		["Shark Anchor"] = {
 			["Enable"] = false,
-			["Money"] = 25_000_000,
+			["Money"] = 200_000_000,
 		},
 	},
 
 	["Currency"] = {
-		["Lock Fragment"] = 25_000,
+		["Lock Fragment"] = 100_000,
 	},
 
 	["Performance"] = {
-		["White Screen"] = false,
-		["Booster FPS"] = false,
+		["White Screen"] = true,
+		["Booster FPS"] = true,
 		["Lock FPS"] = 240,
 		["AFK Timeout"] = 150,
 	},
