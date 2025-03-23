@@ -57,7 +57,7 @@ getgenv().ConfigsKaitun = {
 			["Mink"] = true,
 			["Human"] = true,
 			["Skypiea"] = true,
-			["Fishman"] = true,
+			["Fishman"] = false,
 		},
 	},
 
