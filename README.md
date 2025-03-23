@@ -19,7 +19,7 @@ getgenv().ConfigsKaitun = {
 		["Shisui"] = false,
 		["Saddi"] = false,
 		["Wando"] = false,
-		["Rengoku"] = true,
+		["Rengoku"] = false,
 		["True Triple Katana"] = false,
 		-- : World 3
 		["Yama"] = true,
